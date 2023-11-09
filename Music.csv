@@ -1,0 +1,20 @@
+Classname,Code,Credits,Length,Prereq
+Music Theory 1,N31,10,2,N/A
+AP Music Theory,N33,10,2,N/A
+Guitar 1,N41,5,1,N/A
+Guitar 2,N42,5,1,N41
+Soprano/Alto/Tenor/Bass Choir,N54,10,2,N/A
+Soprano/Alto Choir,N56,10,2,N/A
+Concert Choir,N60,5,2,Recommendation
+Select Soprano/Alto Choir,N62,10,2,Recommendation
+Select Soprano/Alto/Tenor/Bass Choir,N64,10,2,Audition or Instructor's Consent
+Soprano/Alto Show/Jazz Choir,N67,10,2,Recommendation
+Show Choir,N68,10,2,Recommendation
+Band Level 1,N71,10,2,At least 3 years of study of a band instrument or appropriate experience or permission of instructor
+Band Level 2,N72,10,2,N71/At least 3 years of study of a band instrument or appropriate experience or permission of instructor
+Band Level 3,N73,10,2,N72/At least 3 years of study of a band instrument or appropriate experience or permission of instructor
+Jazz Band 1,N75,10,2,N/A
+Jazz Band 2,N76,10,2,N75/At least 3 years of study of a jazz band instrument of approval of instructor
+Jazz Band 3,N77,10,2,N76/Appropriate experience in playing in a jazz band or permission of instructor
+Orchestra Level 1,N81,10,2,N/A
+Chamber Orchestra,N86,10,2,Appropriate playing level on an orchestra stringed instrument and approval of the orchestra teacher
