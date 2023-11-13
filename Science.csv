@@ -1,0 +1,15 @@
+Classname,Code,Credits,Length,Prereq
+Physical Science,S10,10,2,N/A
+Earth Space Geophysical,S16,10,2,N/A
+Advanced Physical Science,S20,10,2,N/A
+Biology,S31,10,2,N/A
+Marine Biology,S36,10,2,N/A
+Advanced Biology,S37,10,2,N/A
+Chemistry Advanced,S51,10,2,S10/S20
+Anatomy & Physiology Advanced,S52,10,2,N/A
+Physics Advanced,S63,10,2,M31/M41/S10
+AP Chemistry,S66,10,2,M51/M55
+AP Biology,S68,10,2,S31/S37
+AP Environmental Science,S69,10,2,M31/S10/S31
+AP Physics C,S70,10,2,M61/M65
+Science Research Seminar,S98,10,2,S10/S20/S31/S37

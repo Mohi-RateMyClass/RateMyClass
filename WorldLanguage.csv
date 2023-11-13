@@ -1,0 +1,10 @@
+Classname,Code,Credits,Length,Prereq
+American Sign Language 1,F98,10,2,N/A
+American Sign Language 2,F99,10,2,F98
+American Sign Language 3,F104,10,2,F99
+American Sign Language 4,F105,10,2,F104
+French 1,F11,10,2,N/A
+French 2,F12,10,2,F11
+French 3,F13,10,2,F12
+French 4,F19,10,2,F13
+AP French,F26,10,2,N/A
