@@ -3,18 +3,21 @@
     <head>
         <title> Monarch High School Classes - Rate My Class</title>
         <link rel = "stylesheet" type = "text/css" href="style.css"/>
-        <script src="script.js"></script>
+        <script src="script.js"></script>        
     </head>
     <a  href = "Home.html"><h1> Monarch High School Class List</h1></a>
     <body>
       
     <div class = "class_table">
-   
-    <table id = "table"></table>  
-    <script>
-        window.onload = () => tableMaker("Classes.csv");
-    </script>
-     </div>
 
+        <script> tableMaker()</script>
+
+        <input type="text" placeholder="Search.." id = "search"  onkeyup = "searchTable()">
+    
+        <table id = "table"></table>
+
+
+        
+     </div>
 </body>
 </html>
