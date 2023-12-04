@@ -3,7 +3,11 @@ function loginInfo(){
     var pass = document.getElementById("loginpass").value;
 alert(pass);
 }
-
+function coursePlanner(){
+    var courseChosen = document.getElementById("subject").value;
+    
+    console.log(courseChosen);
+}
 function tableMaker(id){
     var first = true;
     if(id == null){
