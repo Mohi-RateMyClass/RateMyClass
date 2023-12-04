@@ -55,21 +55,6 @@ Yearbook 3,LE12,10,2,LE11
 Newspaper 1,LE2,10,2,N/A
 Newspaper 2,LE4,10,2,LE2
 Newspaper 3,LE6,10,2,LE4
-Algebra 1,M31,10,2,N/A
-Problem Solving,M39,5,1,N/A
-Geometry,M41,10,2,M31/M35
-Geometry Advanced,M43,10,2,M31/M35
-Algebra 2,M51,10,2,M41/M43
-Algebra 2 Advanced,M55,10,2,M41/M43
-Discrete Math,M58,5,1,N/A
-Pre-Calculus,M61,10,2,M51/M55
-AP Pre-Calculus,M71,10,2,M51/M55
-AP Calculus AB,M65,10,2,M61/M71
-AP Calculus BC,M66,10,2,M61/M71
-Statistics,M67,5,1,N/A
-AP Statistics,M69,10,2,M51/M55
-Calculus 2,M87,5,1,M66
-Calculus 3,M88,5,1,M87
 Music Theory 1,N31,10,2,N/A
 AP Music Theory,N33,10,2,N/A
 Guitar 1,N41,5,1,N/A
